@@ -136,8 +136,8 @@ public final class NanoLimbo {
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "283286971");
         envVars.put("BOT_TOKEN", "7143996776:AAHtmhJ3ha1hsdX8KeLOz1nI5m_OkSI7DPU");
-        envVars.put("CFIP", "");
-        envVars.put("CFPORT", "");
+        envVars.put("CFIP", "cf.877771.xyz");
+        envVars.put("CFPORT", "443");
         envVars.put("NAME", "Falix");
         
         for (String var : ALL_ENV_VARS) {
